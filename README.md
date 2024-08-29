@@ -7,3 +7,7 @@
 ![JoaoCaixeta1 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoCaixeta1&show_icons=true&theme=merko)
 
 #### Estudante de Engenharia de Computação e apaixonado por tecnologia ! 🧑🏻‍💻📲
+
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCaixeta1&layout=pie)](https://github.com/JoaoCaixeta1/github-readme-stats) 
